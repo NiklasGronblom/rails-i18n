@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rails-i18n (4.0.8)
+    rails-i18n (4.0.9)
       i18n (~> 0.7)
       railties (~> 4.0)
 
@@ -45,7 +45,7 @@ GEM
       terminal-table
     iso (0.2.1)
       i18n
-    json (1.8.1)
+    json (2.0.3)
     minitest (4.7.5)
     multi_json (1.9.2)
     rack (1.5.2)
@@ -92,4 +92,4 @@ DEPENDENCIES
   spork (= 1.0.0rc3)
 
 BUNDLED WITH
-   1.11.2
+   1.13.7
